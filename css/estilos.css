@@ -1,0 +1,34 @@
+body {
+    background-image: url('https://wallpaperaccess.com//full/258112.jpg');
+    background-size: 100vw auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.menu {
+    background-color: white;
+}
+
+.site-title,
+.site-subtitle {
+    color: white;
+    text-align: center;
+}
+
+
+a {
+    color: brown;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    list-style: none;
+}
